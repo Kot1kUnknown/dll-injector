@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\development\programming\c++\dll injector\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,11): warning C4101: Erros: неиспользованная локальная переменная
+D:\development\programming\c++\dll injector\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(88,34): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+D:\development\programming\c++\dll injector\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(104): warning C4715: InjectDLL: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> D:\development\programming\c++\dll injector\ConsoleApplication1\Debug\ConsoleApplication1.exe

@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+D:\development\programming\c++\dll injector\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,11): warning C4101: Erros: неиспользованная локальная переменная
+D:\development\programming\c++\dll injector\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(88,34): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  Создание кода
+  1 of 44 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\development\programming\c++\dll injector\ConsoleApplication1\Release\ConsoleApplication1.exe
